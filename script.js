@@ -2,7 +2,7 @@
     2. Right CLick on webpage and click "Inspect"
     3. Now, Click on Console.
     4. Paste it, and hit enter
-    5. Place your Mouse in racing Placeholder, and press any key to type automatically 
+    5. Place your Mouse in racing Placeholder, and keep pressing any key to type automatically 
 
                           Enjoy!
 */ 
